@@ -1,0 +1,100 @@
+#funfacts{
+    background-image: url(./images/fun-facts-bg.jpg);
+    padding: 6rem;
+}
+#text-content{
+    position: absolute;
+    top: 250px;
+}
+#button{
+    background-color:green;
+    color: #fff;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: none;
+    display: inline-block;
+
+}
+#text1{
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    color:#6acf06;
+}
+#text2{
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    font-size: 44px;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    color:#fff;
+    overflow:hidden;
+    
+}
+#btn2{
+    background-color:green;
+    color: #fff;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: none;
+    display: inline-block; 
+}
+#btn2:hover{
+    background-color: #fff;
+    color: #6acf06;
+}
+#counts{
+    color: #6acf06;
+}
+#card-section, #review{
+    background-color: #f7f7f7;
+}
+/* #aims{
+    padding: 5rem;
+} */
+#review{
+    padding: 1rem 2rem;
+}
+.form-control{
+    border: #6acf06 1px solid;
+}
+#info{
+    color: #6acf06;
+}
+#our-team{
+    background-color: #f7f7f7;
+    padding: 100px;
+}
+#our-team1{
+    background-color: #f7f7f7;
+}
+#review1{
+    color:#6acf06;
+}
+#member{
+    color:#6acf06;
+}
+
+#primary{
+    color:#6acf06;
+}
+
+.bg-secondary{
+margin-top: 300px;
+
+}
+#summary{
+    color:#6acf06;
+    font-size: 3.5rem;
+}
+#primary1{
+    font-size: 3.5rem;
+}
